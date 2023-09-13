@@ -1,4 +1,4 @@
-<img align="centre" src="https://i.gifer.com/QWfc.gif">
+<img align="centre" src="https://github.com/karanupd12/karanupd12/assets/130437928/54d4735a-075c-4fc1-b25c-8f73ed319447">
 
 <h1 align="center">Hi 👋, I'm Karan Upadhyay</h1>
 <h3 align="center">A passionate Java and FrontEnd Developer</h3>
