@@ -3,30 +3,35 @@
 ## About Me
 
 - B.Tech-IT undergrad at USICT, GGSIPU
-- I'm a passionate software developer with expertise in a variety of technologies. My interests span from Web,App development to Web3-Blockchain, with a strong foundation in object-oriented programming and data structures.
+- Blockchain Developer
 
 ## Tech Stack
 
-- **Web Development:**
-  - HTML
-  - CSS
-  - JavaScript
-
-- **Object-Oriented Programming (OOP) and Data Structure:**
-  - Java
-  - Python
-  - C
-
-- **Mobile App Development:**
+- **FrontEnd Development:**
   - Flutter
   - Dart
+  - HTML5
+  - CSS3
+  - JavaScript
 
-- **Database:**
-  - SQL
+- **BackEnd Development:**
+  - Solidity (for Ethereum smart contracts)
+  - Ganache (local Ethereum blockchain for testing)
+  - Ethereum (for blockchain integration)
+
+- **OOPS and DSA**
+  - Java
+  - C++
+
+- **Tools and Frameworks:**
+  - Web3.js (JavaScript library for Ethereum interaction)
+  - Truffle Suite (development framework for Ethereum DApps)
+  - Remix IDE (for Solidity smart contract development)
+  - Metamask (Ethereum wallet integration)
+  - Ganache CLI/GUI (for local blockchain development)
+  - Visual Studio Code, IntelliJ IDEA
 
 ## Projects
-
-Here are a few projects that showcase my skills and interests:
 
 1. [Weather App](https://github.com/karanupd12/https://github.com/karanupd12/Delhi_Cast) - A real-time weather application for Delhi, developed using Flutter. This app provides up-to-date weather information by leveraging the OpenWeatherMap API.
 2. [Currency Converter](https://github.com/karanupd12/Currency_Converter_app) - A material designed flutter app for USD - INR conversion
