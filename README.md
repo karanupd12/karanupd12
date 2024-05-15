@@ -35,6 +35,7 @@
 
 1. [Weather App](https://github.com/karanupd12/https://github.com/karanupd12/Delhi_Cast) - A real-time weather application for Delhi, developed using Flutter. This app provides up-to-date weather information by leveraging the OpenWeatherMap API.
 2. [Currency Converter](https://github.com/karanupd12/Currency_Converter_app) - A material designed flutter app for USD - INR conversion
+3. [Calculator](https://karanupd12.github.io/IOScalculator/) - A web based calculator 
 
 ## Connect with Me
 
