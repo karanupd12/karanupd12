@@ -8,7 +8,7 @@
 ### 🧑‍💻 Who Am I?
 - 🎓 **Pre-Final Year B.Tech Student** at USICT, GGSIPU, majoring in IT (Software Engineering).
 - 💡 **Innovator at Heart** - Love tackling complex problems with Blockchain and Smart Contracts.
-- 🛠️ **My Arsenal**: Building with the MERN stack, diving into decentralized ecosystems, and experimenting with cutting-edge web3 tools.
+- 🛠️ **My Arsenal**: Building with the MERN stack, diving into decentralized ecosystems, NFTs, DeFi and DAOs.
 - 🚀 **Currently Exploring**: The intersection of Blockchain & AI, enhancing security in dApps and NFT with GenAI and Computer Vision.
 - 🌎 How to reach me: [karanupd12@gmail.com](mailto:karanupd12@gmail.com)
 
