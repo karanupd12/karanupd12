@@ -6,9 +6,9 @@
 ---
 
 ### 🧑‍💻 Who Am I?
-- 🎓 **Final Year B.Tech Student** at USICT, GGSIPU, majoring in IT (Software Engineering).
+- 🎓 **Pre-Final Year B.Tech Student** at USICT, GGSIPU, majoring in IT (Software Engineering).
 - 💡 **Innovator at Heart** - Love tackling complex problems with Blockchain and Smart Contracts.
-- 🛠️ **Tech Stack**: Building with the MERN stack, diving into decentralized ecosystems, and experimenting with cutting-edge web3 tools.
+- 🛠️ **My Arsenal**: Building with the MERN stack, diving into decentralized ecosystems, and experimenting with cutting-edge web3 tools.
 - 🚀 **Currently Exploring**: The intersection of Blockchain & AI, enhancing security in dApps and NFT with GenAI and Computer Vision.
 - 🌎 How to reach me: [karanupd12@gmail.com](mailto:karanupd12@gmail.com)
 
@@ -65,11 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanupd12&layout=compact&theme=react" alt="Top Languages" width="400">
 </p>
 
-### 🚀 Recent GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karanupd12&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
 ---
 
 ### 🌐 Connect with Me
@@ -84,10 +79,6 @@
 <p align="center">
   <a href="https://medium.com/@karanupd12"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium" alt="Medium"></a>
 </p>
-
----
-
-> 💡 *"Blockchain is not just technology; it's a movement towards a decentralized, open world."*
 
 ---
 
