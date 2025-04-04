@@ -7,15 +7,13 @@
 
 ### 🧑‍💻 Who Am I?
 - 🎓 **Pre-Final Year B.Tech Student** at USICT, GGSIPU, majoring in IT (Software Engineering).
-- 💡 **Innovator at Heart** - Love tackling complex problems with Blockchain and Smart Contracts.
-- 🛠️ **My Arsenal**: Building with the MERN stack, diving into decentralized ecosystems, NFTs, DeFi and DAOs.
-- 🚀 **Currently Exploring**: The intersection of Blockchain & AI, enhancing security in dApps and NFT with GenAI and Computer Vision.
+- 🛠️ **Arsenal**: Full Stack Developer, diving into decentralized ecosystems, and Defi.
+- 🚀 **Currently Exploring**: The intersection of Blockchain & AI, enhancing security in dApps with GenAI and Computer Vision.
 - 🌎 How to reach me: [karanupd12@gmail.com](mailto:karanupd12@gmail.com)
 
 ---
 
 ### ⚙️ Core Skills & Technologies
-> Passionate about crafting scalable, efficient, and decentralized solutions!
 
 #### 🖥️ Languages:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -38,21 +36,18 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF000?style=flat-square&logo=ethereum)
-![Ganache](https://img.shields.io/badge/-Ganache-3c3c3d?style=flat-square&logo=ethereum)
 ![MetaMask](https://img.shields.io/badge/-MetaMask-E2761B?style=flat-square&logo=metamask)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens)
 
 #### 📦 Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs)
 
 #### ☁️ Cloud & Hosting:
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 ---
 
