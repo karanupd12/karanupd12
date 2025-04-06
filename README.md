@@ -1,13 +1,13 @@
 <h1 align="center">Hey there! 👋 I'm Karan Upadhyay</h1>
 <p align="center">
-  <strong>Smart Contract Developer | Full Stack Blockchain Developer | Web3 Enthusiast</strong>
+  <strong>Full Stack Java Developer | Web3 Enthusiast</strong>
 </p>
 
 ---
 
 ### 🧑‍💻 Who Am I?
 - 🎓 **Pre-Final Year B.Tech Student** at USICT, GGSIPU, majoring in IT (Software Engineering).
-- 🛠️ **Arsenal**: Full Stack Developer, diving into decentralized ecosystems, and Defi.
+- 🛠️ **Arsenal**: Full Stack Java Developer, diving into decentralized ecosystems, and Defi.
 - 🚀 **Currently Exploring**: The intersection of Blockchain & AI, enhancing security in dApps with GenAI and Computer Vision.
 - 🌎 How to reach me: [karanupd12@gmail.com](mailto:karanupd12@gmail.com)
 
@@ -78,4 +78,4 @@
 ---
 
 ### 🌌 Let's Innovate Together!
-Looking to build something amazing in Blockchain or Web3? I’m always open to new opportunities and collaborations. Reach out, and let's make the future of tech a reality!
+Looking to build something amazing in Blockchain or Web3? I’m always open to new opportunities and collaborations. Lets Connect - <a href="mailto:karanupd12@gmail.com">karanupd12@gmail.com</a>
