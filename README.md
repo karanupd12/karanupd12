@@ -78,4 +78,4 @@
 ---
 
 ### 🌌 Let's Innovate Together!
-Looking to build something amazing in Blockchain or Web3? I’m always open to new opportunities and collaborations. Lets Connect - <a href="mailto:karanupd12@gmail.com">karanupd12@gmail.com</a>
+Looking to build something amazing in Web3? I’m all ears for exciting collaborations - <a href="mailto:karanupd12@gmail.com">karanupd12@gmail.com</a>
