@@ -53,7 +53,6 @@
 
 ### 🔥 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanupd12&show_icons=true&theme=react" alt="GitHub Stats" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanupd12&theme=react" alt="GitHub Streak" width="400">
 </p>
 <p align="center">
