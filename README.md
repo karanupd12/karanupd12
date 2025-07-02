@@ -63,6 +63,7 @@ AI integration in distributed systems for real-time **bug detection**, **threat 
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanupd12&layout=compact&theme=tokyonight&hide_border=true&card_width=400)  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN6YnZhZDVhNHpxMzV0dWhoa3R3Mmpodzh0YnVjNHFmZmtodnJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpKxfPy33hMRy/giphy.gif" />
 ![Profile Views](https://komarev.com/ghpvc/?username=karanupd12&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -70,6 +71,8 @@ AI integration in distributed systems for real-time **bug detection**, **threat 
 ---
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/mYrf-J7PLtMAAAAd/barca-messi.gif" />
-  <h3>🔗 <em>Code. Chain. Cognition. Building what’s next.</em></h3>
+  💡 Got something in mind? Reach out at <a href="mailto:karanupd12@gmail.com">karanupd12@gmail.com</a>
 </div>
+
+
+
