@@ -41,6 +41,12 @@ Pre-final year IT student, engineering scalable, secure, and intelligent systems
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanupd12&layout=compact&theme=tokyonight&hide_border=true&card_width=400)  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN6YnZhZDVhNHpxMzV0dWhoa3R3Mmpodzh0YnVjNHFmZmtodnJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpKxfPy33hMRy/giphy.gif" /> <br/>
+![Profile Views](https://komarev.com/ghpvc/?username=karanupd12&color=blueviolet&style=for-the-badge)
+
+</div>
 </div>
 
 ---
@@ -55,18 +61,6 @@ AI integration in distributed systems for real-time **bug detection**, **threat 
 - 🔐 **Web and DApps Development**  
 - 🧠 **Applied AI & LLM Integration**  
 - 🔗 **Security and Auditing**
-
----
-
-## 📈 GitHub Insights
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanupd12&layout=compact&theme=tokyonight&hide_border=true&card_width=400)  
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN6YnZhZDVhNHpxMzV0dWhoa3R3Mmpodzh0YnVjNHFmZmtodnJjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpKxfPy33hMRy/giphy.gif" />
-![Profile Views](https://komarev.com/ghpvc/?username=karanupd12&color=blueviolet&style=for-the-badge)
-
-</div>
 
 ---
 
