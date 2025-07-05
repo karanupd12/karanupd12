@@ -52,7 +52,7 @@ Pre-final year IT student, engineering scalable, secure, and intelligent systems
 ---
 
 ## 🔭 Currently Exploring  
-AI integration in distributed systems for real-time **bug detection**, **threat prediction**, and **autonomous smart contract testing**.
+AI integration in distributed systems for **autonomous smart contract testing**.
 
 ---
 
