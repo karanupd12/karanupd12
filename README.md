@@ -3,7 +3,7 @@
 # 👋 Hey there! I’m Karan  
 **`Full Stack | Web3 | GenAI`**
 
-Final-year B.Tech (IT & Software Engineering) student with expertise in **Java, Python, and Solidity**.  
+Final-year B.Tech (IT & Software Engineering) student with expertise in **Java, Object Oriented Programming, and System Design**.  
 Focused on building **scalable apps, decentralized systems, and AI-powered solutions**.  
 Strong foundation in **DSA, Databases, and Full-Stack Development**.  
 
@@ -84,14 +84,13 @@ Strong foundation in **DSA, Databases, and Full-Stack Development**.
 
 
 ## 🔭 Currently Exploring  
-- 🌐 Building **scalable full-stack systems** with Spring Boot, React, and microservices  
+- 🌐 Building **scalable microservices** with Spring Boot.
 - 🔗 Innovating in **Web3 & AI convergence** through dApps, IPFS, and LLM-powered automation
 
 
 
-
 ## 🎯 Core Competencies  
-- ⚙️ **Full-Stack & Scalable Application Development**  
+- ⚙️ **Java, SpringBoot and Backend Development**  
 - 🔐 **Blockchain & Decentralized Systems Engineering**  
 - 🧠 **Applied AI & Intelligent Automation**  
 
