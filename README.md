@@ -4,9 +4,7 @@
 **Full-Stack Developer | Java | DSA | System Design** 💻
 
 <p>
-🎓 Final-year B.Tech (IT) student building production-grade backend systems with Java and Spring Boot, REST APIs.  
-📐 Focused on scalable APIs, clean architecture, system design, and database management.  
-🚀 Experienced in shipping full-stack and decentralized applications with strong problem-solving depth.
+ Final-year B.Tech (IT & Software Engineering) student building production-grade backend systems with Java & Spring Boot. Specializing in scalable REST APIs, clean architecture, system design, and database optimization. Strong problem-solving foundation.
 </p>
 
 ---
