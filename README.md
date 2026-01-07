@@ -81,8 +81,8 @@
 
 ## What I’m Focused On 🎯
 
-- Designing **low-latency, scalable backend systems** 
-- Mastering **System Design interviews (LLD + HLD)** 
+- Designing **reliable, secure and scalable backend systems** 
+- Mastering **System Design (LLD + HLD)** 
 - Writing **clean, testable, production-ready Java code** 
 - Exploring **AI-assisted and decentralized system design** 
 
@@ -90,10 +90,10 @@
 
 ## Core Strengths 💡
 
-- **Backend Engineering:** Java, Spring Boot, REST, Microservices ⚙️  
+- **Backend Engineering:** Java, Spring Boot, REST, Monolithic + Microservices ⚙️  
 - **System Design:** APIs, data modeling & schemas, scalability, trade-offs  
 - **Problem Solving:** Searching, Sorting, Graphs and Dynamic Programming with in depth Complexity Analysis 🧠  
-- **Emerging Tech:** Blockchain(Ethereum and Hardhat), smart contracts, AI integration 
+- **Emerging Tech:** Blockchain(Ethereum and Hardhat), smart contracts(Solidity), AI integration 
 
 ---
 
