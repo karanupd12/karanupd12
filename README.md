@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lsOGtxbmF1eG5rNmRpMHA2NGl5dXlreTdtenBybGpodnI4bG53MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" hight="500" width="500"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lsOGtxbmF1eG5rNmRpMHA2NGl5dXlreTdtenBybGpodnI4bG53MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" hight="500" width="800"/>
 
 </div>
 
@@ -61,13 +61,10 @@ Observability
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D"/>
 
-
 <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-
-</br>
 
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF"/>
