@@ -1,154 +1,228 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lsOGtxbmF1eG5rNmRpMHA2NGl5dXlreTdtenBybGpodnI4bG53MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" hight="500" width="400"/>
+# Hey there, I'm Karan Upadhyay 👋👋
+
+### Backend Engineering · Distributed Systems · Applied AI & LLMs
+
+**Associate Systems Engineer @ AutoZone**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanupd12)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karanupd12)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karanupd12@gmail.com)
 
 </div>
 
-```console
-$ whoami
-Karan Upadhyay
+---
 
-$ current
-Systems Software Engineer Intern @ AutoZone (Agentic AI & Backend)
+## About
 
-$ cat /proc/interests
-Distributed Systems
-Low Latency
-Observability
+I'm a software engineer focused on **backend-heavy systems, distributed architectures, and enterprise AI platforms**.
+
+Currently at **AutoZone**, where I work on conversational AI infrastructure, human-in-the-loop workflows, multi-agent systems, MCP, observability, and evaluation.
+
+My engineering interests sit at the intersection of:
+
+- **Backend & Distributed Systems**
+- **Event-Driven Architecture**
+- **Microservices & API Design**
+- **Agentic AI & LLM Applications**
+- **Observability & Reliability**
+- **System Design & Performance Engineering**
+
+I enjoy taking systems from **"it works" → "it scales" → "it is observable, resilient, and maintainable."**
+
+---
+
+## Experience
+
+### AutoZone — Associate Systems Engineer
+**Aug 2026 – Present · Gurugram, India**
+
+Working on enterprise conversational AI infrastructure and distributed backend systems.
+
+- Architected an event-driven **Human-in-the-Loop task orchestration system** using Java, Spring Boot, and Kafka, supporting **10K+ concurrent sessions** across 8 enterprise domains.
+- Implemented distributed **Redis caching and transactional state management**, reducing database API calls by **50%** while preserving state consistency across asynchronous operations.
+- Built enterprise observability across **12+ agent workflows** using OpenTelemetry and Dynatrace, reducing MTTR from **5 minutes → 10 seconds**.
+- Improved AI compute efficiency by **50%** through system-level observability and bottleneck analysis.
+
+### AutoZone — Software Engineer Intern
+**Feb 2026 – Jul 2026 · Gurugram, India**
+
+- Engineered **30+ secure multi-tenant REST APIs** using Spring Security, OAuth2, LDAP, and RBAC.
+- Built Spring AI tool-calling workflows for conversational AI with **sub-2s response latency**.
+- Implemented centralized audit trails covering **100% of task lifecycle transitions** across state-machine pipelines.
+- Containerized **6 microservices** using Docker Compose, reducing local development onboarding time by **70%**.
+- Worked on event streaming migration to **GCP Pub/Sub**, with Cloud SQL and MongoDB supporting hybrid data workloads.
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 SpendWise
+
+Full-stack expense management platform built around a production-style Spring Boot backend.
+
+**Highlights**
+- JWT authentication
+- Role-based access control
+- Search & filtering
+- MySQL persistence
+- Automated email reports
+- Docker + GitHub Actions CI/CD
+
+**Stack**
+
+`Java` `Spring Boot` `JPA` `MySQL` `React` `Docker` `JWT`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✉️ Mail Minter
+
+AI-powered email assistant using Google Gemini to understand email context and generate context-aware replies.
+
+**Highlights**
+- Context & intent analysis
+- Tone-adjustable AI responses
+- Gmail Chrome Extension
+- Direct Gmail DOM integration
+- Sub-2s response generation
+
+**Stack**
+
+`Java` `Spring Boot` `Spring AI` `Gemini` `Chrome Extension`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
+</p>
+
+### Backend & Architecture
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi" />
+</p>
+
+`Spring Boot` · `Hibernate/JPA` · `REST APIs` · `WebSockets` · `Microservices` · `MCP`
+
+### Data & Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />
+</p>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `MariaDB` · `Redis` · `Apache Kafka`
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git" />
+</p>
+
+`AWS EC2` · `AWS S3` · `GCP Cloud SQL` · `GCP Cloud Run` · `Docker` · `Docker Compose`
+
+### AI / Observability / Testing
+
+`Spring AI` · `LLM Applications` · `Agentic AI` · `MCP` · `OpenTelemetry` · `Dynatrace` · `JUnit` · `Mockito` · `JMeter` · `OpenAPI`
+
+---
+
+## Engineering Focus
+
+```text
+Backend Engineering
+├── API Design
+├── Microservices
+├── Distributed Systems
+├── Event-Driven Architecture
+├── Concurrency & Multithreading
+└── Performance Engineering
+
+AI Engineering
+├── LLM Applications
+├── Agentic AI
+├── Multi-Agent Systems
+├── Tool Calling
+├── MCP
+└── AI Observability & Evaluation
+
+Engineering Practices
+├── System Design
+├── Object-Oriented Design
+├── Security & RBAC
+├── Automated Testing
+├── Distributed Tracing
+└── CI/CD
 ```
 
+---
+
+## Competitive Programming
+
+I use competitive programming to sharpen **problem decomposition, algorithmic reasoning, complexity analysis, and edge-case thinking**.
+
 <div align="center">
 
-```console
-┌────────────────────────────────────────────────────────────┐
-│ karan@devbox                                               │
-├────────────────────────────────────────────────────────────┤
-│ OS        :: Arch Linux (probably btw)                     │
-│ Native    :: Java, Python, Go                              │
-│ Backpack  :: Agentic AI, LLMs. Tools & Guardrails          │
-│ Coffee    :: required                                      │
-└────────────────────────────────────────────────────────────┘
-```
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%7C%201910%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/karanupd12)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20%7C%201520-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/karanupd12)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85%20%7C%201624-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/karanupd_012)
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Bring+me+my+Coffee.;git+push+Coffee.;git+push+--force+Coffeeeee"/>
+**1100+ DSA problems solved · Top 4% on LeetCode**
 
 </div>
 
-## ~/languages
+---
+
+## Achievements
+
+- **LeetCode Knight** — 1910+ rating, Top 4% globally
+- **Codeforces Specialist** — 1520 rating
+- **CodeChef 3-Star** — 1624 rating
+- **LeetCode Weekly Contest** — Global Rank **386** and **608**
+- **CodeChef** — Global ranks **111, 166, 323** in Div 3 and **329** in Div 2
+- **Top 7 — Vihaan Hackathon (DTU)** — Led a team of 4 to build a B2C e-commerce platform in 24 hours
+- **Amazon HackOn 5.0** — Qualified for Round 3; Top 1,800 among 52,000+ participants
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karanupd12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karanupd12&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
-## ~/toolbox
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Spring_MVC-000000?style=flat-square&logo=spring&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Hibernate-000000?style=flat-square&logo=hibernate&logoColor=59666C"/>
-<img src="https://img.shields.io/badge/REST_API-000000?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D"/>
-
-<img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=C71A36"/>
-<img src="https://img.shields.io/badge/JUnit-000000?style=flat-square&logo=junit5&logoColor=25A162"/>
-<img src="https://img.shields.io/badge/Swagger-000000?style=flat-square&logo=swagger&logoColor=85EA2D"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Vertex_AI-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Spring_AI-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/>
+<img src="https://streak-stats.demolab.com/?user=karanupd12&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-
-## ~/patterns
-
-```console
-$ ls patterns/
-
-MVC
-Object-Oriented Design
-Concurrency
-Multithreading
-Low-Level Design
-High-Level Design
-TDD
-```
-
-
-## ~/leetcode_spam
+---
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/karanupd12?theme=nord_dark&font=JetBrains%20Mono&ext=heatmap" width="92%"/>
+### Let's Connect
 
-</div>
+Building backend systems, distributed infrastructure, and practical AI applications.
 
-
-
-## ~/coding_profiles
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-Knight%20•%201910-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-
-<img src="https://img.shields.io/badge/Codeforces-Specialist%20•%201520-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/>
-
-<img src="https://img.shields.io/badge/CodeChef-3★%20•%201624-000000?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
-
-</br>
-
-[LeetCode](https://leetcode.com/u/karanupd12) •
-[Codeforces](https://codeforces.com/profile/karanupd12) •
-[CodeChef](https://www.codechef.com/users/karanupd_012) •
-[GitHub](https://github.com/karanupd12)
-
-</div>
-
-
-## ~/github_stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=karanupd12&theme=nord_dark&hide_border=true"/>
-
-</div>
-
-
-## ~/connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/karanupd12">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/karanupd12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:karanupd12@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**[LinkedIn](https://linkedin.com/in/karanupd12) · [GitHub](https://github.com/karanupd12) · [Email](mailto:karanupd12@gmail.com)**
 
 </div>
