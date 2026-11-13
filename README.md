@@ -12,26 +12,9 @@
 ---
 
 ### 🧭 About Me
-- 🏢 **Associate Systems Engineer @ AutoZone**, building infrastructure for enterprise conversational AI, with a focus on human-in-the-loop workflows, multi-agent systems, MCP, and AI observability.
-- ⚡ Build backend systems that balance **scale, reliability, and latency** — from event-driven task orchestration supporting **10K+ concurrent sessions** to distributed caching that reduced database API calls by **50%**.
-- 🛠️ Focused on **backend engineering, distributed systems, and applied AI** — Java, Spring Boot, Kafka, Redis, GCP, MCP, OpenTelemetry, and Dynatrace.
-- 🧠 Competitive programming enthusiast with **1100+ DSA problems solved**, LeetCode Knight (1910+), Codeforces Specialist (1520), and CodeChef 3★ (1624).
+- 🏢 Software Engineer (Platform & Shared Services), building backend and distributed systems and modernizing enterprise platforms in Java, Python, and Go. Experienced across the full agentic AI lifecycle, from multi-agent orchestration and MCP tooling to guardrails, observability, and evaluation, with a focus on consistency, reliability, and secure AI adoption. 
+- Completed B.Tech in Information Technology from USICT, GGSIPU.
 - 📫 [LinkedIn](https://linkedin.com/in/karanupd12) · [GitHub](https://github.com/karanupd12) · [karanupd12@gmail.com](mailto:karanupd12@gmail.com)
-
-
----
-
-
-### 💼 Experience
-**AutoZone** — Associate Systems Engineer · *Aug 2026 – Present*  
-Building infrastructure for AutoZone's enterprise conversational AI platform, with a focus on **event-driven Human-in-the-Loop orchestration and distributed backend systems**. Architected a Java 17 / Spring Boot 4 / Kafka workflow supporting **10K+ concurrent sessions across 8 business domains**, while Redis-backed caching and transactional state management reduced database API calls by **50%**. Built observability across **12+ agent workflows** using OpenTelemetry and Dynatrace, reducing **MTTR from 5 minutes to 10 seconds** and improving AI compute efficiency by **50%**.
-
-**AutoZone** — Software Engineer Intern · *Feb 2026 – Jul 2026*  
-Engineered **30+ secure multi-tenant APIs** and Spring AI tool-calling workflows powering conversational AI, using Spring Security, OAuth2, LDAP, and RBAC to enforce enterprise access controls while maintaining **sub-2s agent response latency**. Built a centralized audit trail covering **100% of task lifecycle transitions**, and containerized **6 microservices** with Docker Compose, reducing local development onboarding time by **70%**. Contributed to production scalability through GCP Pub/Sub, Cloud SQL, and MongoDB.
-
-
----
-
 
 ### 🚀 Featured Projects
 <table>
