@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Karan Upadhyay 👋👋
-### Backend Engineering · Distributed Systems · Applied AI & LLMs
-**Associate Systems Engineer @ AutoZone**
+# Hey, I'm Karan 👋👋
+### Backend Engineering | Distributed Systems |  Applied AI
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanupd12)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karanupd12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karanupd12@gmail.com)
@@ -14,7 +14,7 @@
 ### 🧭 About Me
 - 🏢 Software Engineer (Platform & Shared Services), building backend and distributed systems and modernizing enterprise platforms in Java, Python, and Go. Experienced across the full agentic AI lifecycle, from multi-agent orchestration and MCP tooling to guardrails, observability, and evaluation, with a focus on consistency, reliability, and secure AI adoption. 
 - Completed B.Tech in Information Technology from USICT, GGSIPU.
-- 📫 [LinkedIn](https://linkedin.com/in/karanupd12) · [GitHub](https://github.com/karanupd12) · [karanupd12@gmail.com](mailto:karanupd12@gmail.com)
+- [karanupd12@gmail.com](mailto:karanupd12@gmail.com)
 
 ### 🚀 Featured Projects
 <table>
@@ -82,21 +82,23 @@ AI-powered email assistant built with Spring AI and Google Gemini that analyzes 
 
 ---
 
-## GitHub
+
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karanupd12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karanupd12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karanupd12&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanupd12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=karanupd12&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=karanupd12&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
