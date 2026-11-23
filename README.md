@@ -21,13 +21,13 @@
   <tr>
     <td width="50%" valign="top">
 
-### 💰 [SpendWise](https://github.com/karanupd12/spend-wise-api)
-Full-stack expense management platform designed around a secure Spring Boot backend, with JWT authentication, RBAC, search/filtering, and persistent financial data management. Automated reporting and CI/CD reduced manual reporting effort by **50%** and accelerated financial insight delivery by **3x**.
-<sub><b>Java · Spring Boot · JPA · MySQL · React · Docker · JWT</b></sub>
+### 🔍 [CodeTrace](https://github.com/karanupd12/codetrace)  
+- Pre-merge change-impact analyzer that shows **what a commit could break**, which tests to run and a 0–100 risk score, backing every claim with file-and-line evidence. Comment-aware diffing and type-aware resolution cut false positives by **97%**, incremental indexing made rescans **2.5x faster**, and idempotent Redis Streams workers analyze untrusted repositories without ever executing them.
+- <sub><b>Java · Spring Boot · PostgreSQL · Redis Streams · Next.js · TypeScript · Docker</b></sub>
 
-### ✉️ [Mail Minter](https://github.com/karanupd12/Mail-minter)
-AI-powered email assistant built with Spring AI and Google Gemini that analyzes conversation context and intent to generate **tone-adjustable replies in under 2 seconds**, reducing email composition time by **85%**. A Chrome Extension integrates directly with Gmail to bring AI assistance into the existing workflow.
-<sub><b>Java · Spring Boot · Spring AI · Gemini · Chrome Extension</b></sub>
+### ✉️ [Mail Minter](https://github.com/karanupd12/Mail-minter)  
+- AI-powered email assistant built with Spring AI and Google Gemini that analyzes conversation context and intent to generate **tone-adjustable replies in under 2 seconds**, reducing email composition time by **85%**. A Chrome Extension integrates directly with Gmail to bring AI assistance into the existing workflow.
+- <sub><b>Java · Spring Boot · Spring AI · Gemini · Chrome Extension</b></sub>
 
 <div align="center">
   <sub>More on <a href="https://github.com/karanupd12?tab=repositories">Repositories →</a></sub>
